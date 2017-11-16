@@ -1,0 +1,14 @@
+{
+    "name": "vestido/project",
+    "authors": [
+        {
+            "name": "",
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Project\\" : "app"
+        }
+    }
+}
